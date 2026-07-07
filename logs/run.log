@@ -1,0 +1,7 @@
+2026-07-07 00:08:38,369 | INFO | Opening target page: https://example.com/
+2026-07-07 00:08:38,896 | INFO | Success screenshot saved to C:\Users\user\Desktop\搶票ROBOT\artifacts\success_20260707_000838.png
+2026-07-07 00:08:38,897 | INFO | Run completed successfully
+2026-07-07 00:40:07,816 | INFO | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-07-07 00:43:28,411 | INFO | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-07-07 00:45:21,083 | INFO | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-07-07 00:52:42,011 | INFO | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
