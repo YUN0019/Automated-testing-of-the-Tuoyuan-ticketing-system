@@ -1,4 +1,11 @@
-🤖 自動化測試實驗室 (QA Portfolio Demo)
+
+ ### 專案成果演示
+<p align="center">
+  <img src="展示.gif" width="700">
+</p>
+ 
+ 
+  # 自動化測試實驗室 (QA Portfolio Demo)
 這是一個記錄我對 Python 自動化測試與網頁互動研究的專案。專案初衷是透過程式模擬瀏覽器行為，並自動產出測試報告。
 
 專案內容
